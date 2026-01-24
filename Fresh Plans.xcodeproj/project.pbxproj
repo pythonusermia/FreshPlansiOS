@@ -16,6 +16,36 @@
 			path = "Fresh Plans";
 			sourceTree = "<group>";
 		};
+		47CE68002F184D6E002BE6AC /* Models */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Models;
+			sourceTree = "<group>";
+		};
+		47CE68012F184D77002BE6AC /* Services */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Services;
+			sourceTree = "<group>";
+		};
+		47CE68022F184D7C002BE6AC /* ViewModels */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		47CE68032F184D84002BE6AC /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
+		47CE68042F184D8A002BE6AC /* Persistence */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		47CE68052F184D92002BE6AC /* Resources */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +62,12 @@
 		47CE67E92F184D2C002BE6AC = {
 			isa = PBXGroup;
 			children = (
+				47CE68052F184D92002BE6AC /* Resources */,
+				47CE68042F184D8A002BE6AC /* Persistence */,
+				47CE68032F184D84002BE6AC /* Views */,
+				47CE68022F184D7C002BE6AC /* ViewModels */,
+				47CE68012F184D77002BE6AC /* Services */,
+				47CE68002F184D6E002BE6AC /* Models */,
 				47CE67F42F184D2C002BE6AC /* Fresh Plans */,
 				47CE67F32F184D2C002BE6AC /* Products */,
 			);
@@ -62,6 +98,12 @@
 			);
 			fileSystemSynchronizedGroups = (
 				47CE67F42F184D2C002BE6AC /* Fresh Plans */,
+				47CE68002F184D6E002BE6AC /* Models */,
+				47CE68012F184D77002BE6AC /* Services */,
+				47CE68022F184D7C002BE6AC /* ViewModels */,
+				47CE68032F184D84002BE6AC /* Views */,
+				47CE68042F184D8A002BE6AC /* Persistence */,
+				47CE68052F184D92002BE6AC /* Resources */,
 			);
 			name = "Fresh Plans";
 			packageProductDependencies = (

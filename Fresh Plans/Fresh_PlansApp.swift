@@ -4,8 +4,8 @@
 //
 //  Created by Mia Yonker on 1/14/26.
 //
-
 import SwiftUI
+import SwiftData
 
 @main
 struct Fresh_PlansApp: App {
@@ -13,5 +13,6 @@ struct Fresh_PlansApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: [UserPreferences.self, Recipe.self])
     }
 }
