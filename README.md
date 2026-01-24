@@ -37,7 +37,7 @@
 
 | Dashboard | Meal Planner | Grocery List |
 | :--- | :--- | :--- |
-| *[Add Screenshot]* | *[Add Screenshot]* | *[Add Screenshot]* |
+| *<img width="423" height="860" alt="Screenshot 2026-01-24 at 4 03 22 PM" src="https://github.com/user-attachments/assets/1c3eff7e-6797-40d8-8a5a-c1590366e39a" />* | *<img width="428" height="856" alt="Screenshot 2026-01-24 at 4 02 50 PM" src="https://github.com/user-attachments/assets/e3805bdf-a84c-4104-83fd-f0a0c7215f7b" />* | *<img width="429" height="867" alt="Screenshot 2026-01-24 at 4 03 07 PM" src="https://github.com/user-attachments/assets/ecb32cdb-5c2b-4744-9769-9f0c1ddb129f" />* |
 
 ---
 
