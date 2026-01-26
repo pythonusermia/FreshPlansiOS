@@ -2,6 +2,8 @@
 
 **Fresh Plans** is a modern, data-driven iOS meal planning and grocery management application. It helps users eliminate "decision fatigue" by generating intelligent meal plans and automatically aggregating ingredients into a checkable shopping list.
 
+Note: This project is currently a Work in Progress (WIP).
+
 ---
 
 ##  Features
@@ -46,3 +48,8 @@
 1. Clone the repository:
    ```bash
    git clone [https://github.com/pythonusermia/FreshPlansiOS.git](https://github.com/pythonusermia/FreshPlansiOS.git)
+
+---
+
+## 📜 License
+This project is currently for portfolio display. All rights reserved.
