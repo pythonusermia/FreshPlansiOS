@@ -39,10 +39,7 @@ Note: This project is currently a Work in Progress (WIP).
 
 | Dashboard | Meal Planner | Grocery List |
 | :--- | :--- | :--- |
-| *<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-12 at 11 32 17" src="https://github.com/user-attachments/assets/df344b79-6f1e-48ab-9e83-e9d39560b584" />
-* | *<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-12 at 11 32 27" src="https://github.com/user-attachments/assets/93dd27e2-ea5f-4a4c-b370-7227e246853f" />
-* | *<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-12 at 11 32 30" src="https://github.com/user-attachments/assets/c5d08954-c8a7-438d-b798-e6dd7546424f" />
-* |
+| *<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-12 at 11 32 17" src="https://github.com/user-attachments/assets/df344b79-6f1e-48ab-9e83-e9d39560b584" />* | *<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-12 at 11 32 27" src="https://github.com/user-attachments/assets/93dd27e2-ea5f-4a4c-b370-7227e246853f" />* | *<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-12 at 11 32 30" src="https://github.com/user-attachments/assets/c5d08954-c8a7-438d-b798-e6dd7546424f" />* |
 
 ---
 
