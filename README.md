@@ -39,9 +39,7 @@ Note: This project is currently a Work in Progress (WIP).
 
 | Dashboard | Meal Planner | Grocery List |
 | :--- | :--- | :--- |
-| *<img width="413" height="863" alt="Screenshot 2026-02-11 at 3 10 08 PM" src="https://github.com/user-attachments/assets/2357ebc8-2a39-4a07-b303-3acf3a9ce298" /
->* | *<img width="420" height="869" alt="Screenshot 2026-02-11 at 3 10 16 PM" src="https://github.com/user-attachments/assets/39794faf-03e1-4a60-a40a-d4a4c3396d74" /
->* | *<img width="429" height="867" alt="Screenshot 2026-01-24 at 4 03 07 PM" src="https://github.com/user-attachments/assets/ecb32cdb-5c2b-4744-9769-9f0c1ddb129f" />* |
+| *<img width="413" height="863" alt="Screenshot 2026-02-11 at 3 10 08 PM" src="https://github.com/user-attachments/assets/2357ebc8-2a39-4a07-b303-3acf3a9ce298" />* | *<img width="420" height="869" alt="Screenshot 2026-02-11 at 3 10 16 PM" src="https://github.com/user-attachments/assets/39794faf-03e1-4a60-a40a-d4a4c3396d74" />* | *<img width="429" height="867" alt="Screenshot 2026-01-24 at 4 03 07 PM" src="https://github.com/user-attachments/assets/ecb32cdb-5c2b-4744-9769-9f0c1ddb129f" />* |
 
 ---
 
